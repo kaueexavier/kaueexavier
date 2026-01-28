@@ -50,13 +50,6 @@ criando fluxos e integrações básicas com APIs e WhatsApp.
 
 <br>
 
-## ◾O que você encontra por aqui
-
-▪️ Projetos práticos de **Desenvolvimento Web**  
-▪️ Estudos e experimentos com **n8n** e integrações  
-▪️ Repositórios com foco em aprendizado, organização e evolução técnica
-
-<br>
 
 ## Contato
 
