@@ -15,10 +15,6 @@
   ▪️ Automação de processos com <b>n8n</b> (estudos e projetos práticos)
 </p>
 
-<div>
-  <a href="mailto:kauexavier@protonmail.com"><img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=protonmail&logoColor=magenta" /></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 <br>
 
@@ -62,10 +58,12 @@ criando fluxos e integrações básicas com APIs e WhatsApp.
 
 ## Contato
 
-- Email: **kauexavier@protonmail.com**
-- LinkedIn: **coloque seu link no botão lá em cima**
+<div>
+  <a href="mailto:kauexavier@protonmail.com"><img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=protonmail&logoColor=magenta" /></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-
+<br>
 
 ⭐ Se curtir algum projeto, fique à vontade para dar uma estrela!
 
