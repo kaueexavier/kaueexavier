@@ -1,19 +1,21 @@
 <!-- README de Perfil - Kauê Xavier do Nascimento -->
 
-<h1>Código, interfaces e automações | Kauê Xavier</h1>
+<h1 align="center">Código, interfaces e automações | Kauê Xavier</h1>
 <br>
 
 <!-- GitHub Stats -->
-<p>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaueexavier&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueexavier&layout=compact&theme=radical" height="165" />
-</p>
+</div>
 
-<p>
+<br>
+
+<div align="center">
   ▪️ Formado em <b>Análise e Desenvolvimento de Sistemas</b> <br/>
   ▪️ Foco em <b>Front-End</b> (com plano de evoluir para <b>Full Stack</b>) <br/>
   ▪️ Automação de processos com <b>n8n</b> (estudos e projetos práticos)
-</p>
+</div>
 
 
 <br>
