@@ -1,14 +1,14 @@
 <!-- README de Perfil - Kauê Xavier do Nascimento -->
 
-<h1 align="center">Oiii! Eu sou o Kauê Xavier 👋</h1>
+<h1>Oiii! Eu sou o Kauê Xavier 👋</h1>
 
-<p align="center">
+<p>
   🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b> <br/>
   💻 Foco em <b>Front-End</b> (com plano de evoluir para <b>Full Stack</b>) <br/>
   🔁 Automação de processos com <b>n8n</b> (estudos e projetos práticos)
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:kauexavier@protonmail.com">
     <img src="https://img.shields.io/badge/Email-ProtonMail-444?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## ◾Sobre mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e venho construindo minha transição para a área de Desenvolvimento Front End.
 Tenho experiência prática com **projetos web** (estágio e estudos) e, recentemente, estou aprofundando conhecimentos em **automação com n8n**,
@@ -34,7 +34,7 @@ criando fluxos e integrações básicas com APIs e WhatsApp.
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## ◾Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,html,react" />
@@ -48,7 +48,7 @@ criando fluxos e integrações básicas com APIs e WhatsApp.
 
 ---
 
-## 📌 O que você encontra por aqui
+## ◾O que você encontra por aqui
 
 ✅ Projetos práticos de **Desenvolvimento Web**  
 ✅ Estudos e experimentos com **n8n** e integrações  
@@ -58,7 +58,7 @@ criando fluxos e integrações básicas com APIs e WhatsApp.
 
 ---
 
-## 📫 Contato
+## Contato
 
 - Email: **kauexavier@protonmail.com**
 - LinkedIn: **coloque seu link no botão lá em cima**
