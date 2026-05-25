@@ -85,8 +85,8 @@ Sou desenvolvedor baseado em **Araçatuba, SP**, com foco em **front-end**, **au
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kaueexavier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueexavier&layout=compact&theme=tokyonight&hide_border=true" />
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kaueexavier)
+
 
 </div>
 
