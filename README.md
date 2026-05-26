@@ -11,7 +11,7 @@
 
 ### 👋 Olá! Eu sou o Kauê
 
-**Desenvolvedor Web Full-Stack** formado em **Análise e Desenvolvimento de Sistemas** pela FATEC Araçatuba.
+**Desenvolvedor e Videomaker** formado em **Análise e Desenvolvimento de Sistemas** pela FATEC Araçatuba.
 Acredito que a melhor interface é aquela que o usuário nem percebe — porque tudo simplesmente funciona e faz sentido.
 
 > *"Código bem feito e audiovisual de qualidade falam a mesma língua: ambos existem para comunicar, engajar e facilitar."*
